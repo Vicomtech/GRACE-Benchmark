@@ -14,7 +14,7 @@ The GRACE benchmark datasets for Image and Video processing tools are formed by 
 | [Visual Age and Gender Estimation](https://github.com/Vicomtech/GRACE-Benchmark/edit/main/02_visual_age_gender_recognition) | UTKFace, AgeDB, APPA-REAL, IMDB-Face   |                 |
 | [Tattoo and Scar Detection](https://github.com/Vicomtech/GRACE-Benchmark/tree/main/03_tattoo_scar_detection)        | DeMSI                                  |                 |
 | [Video Super Resolution](https://github.com/Vicomtech/GRACE-Benchmark/tree/main/04_video_super_resolution)           | REDS                                   |                 |
-| Object Detection and Recognition | NYU Depth V2                           |                 |
+| [Object Detection and Recognition](https://github.com/Vicomtech/GRACE-Benchmark/tree/main/05_object_detection) | NYU Depth V2                           |                 |
 | Scene Text Recognition           | ICDAR 2019                             |                 |
 | Image meme/viral Detection       | Kaggle Memes, TextOCR                  |                 |
 | Tampering Detection              | MISD                                   |                 |
