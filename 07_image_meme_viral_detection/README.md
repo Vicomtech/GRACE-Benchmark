@@ -1,6 +1,6 @@
 # Image meme/viral detection - GRACE benchmarking dataset
 
-This dataset is created as a combination of meme images from [Kaggle's Most Viewed Memes Templates of 2018](https://www.kaggle.com/datasets/gmorinan/most-viewed-memes-templates-of-2018) and non-meme images from [TextOCR]https://www.kaggle.com/datasets/robikscube/textocr-text-extraction-from-images-dataset).
+This dataset is created as a combination of meme images from [Kaggle's Most Viewed Memes Templates of 2018](https://www.kaggle.com/datasets/gmorinan/most-viewed-memes-templates-of-2018) and non-meme images from [TextOCR](https://www.kaggle.com/datasets/robikscube/textocr-text-extraction-from-images-dataset).
 
 To create a balanced dataset, 10K images were chosen from each dataset. 
 
