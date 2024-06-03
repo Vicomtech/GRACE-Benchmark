@@ -17,7 +17,7 @@ The GRACE benchmark datasets for Image and Video processing tools are formed by 
 | [Object Detection and Recognition](https://github.com/Vicomtech/GRACE-Benchmark/tree/main/05_object_detection) | NYU Depth V2                           |                 |
 | [Scene Text Recognition](https://github.com/Vicomtech/GRACE-Benchmark/tree/main/06_scene_text_recognition)           | ICDAR 2019                             |                 |
 | [Image meme/viral Detection](https://github.com/Vicomtech/GRACE-Benchmark/blob/main/07_image_meme_viral_detection)       | Kaggle Memes, TextOCR                  |                 |
-| Tampering Detection              | MISD                                   |                 |
+| [Visual Tampering Detection](https://github.com/Vicomtech/GRACE-Benchmark/tree/main/08_visual_tampering_detection)              | MISD                                   |                 |
 
 ## Audio Benchmarks
 
