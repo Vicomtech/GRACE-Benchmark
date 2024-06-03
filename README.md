@@ -30,7 +30,7 @@ Audio benchmarks were created to evaluate each AI tool in more realistic setting
 | [Speaker Identification](https://github.com/Vicomtech/GRACE-Benchmark/tree/main/11_speaker_identification)                  | Voxceleb                                                                 |                 |
 | [Acoustic Age and Gender Estimation](https://github.com/Vicomtech/GRACE-Benchmark/tree/main/12_acoustic_age_gender_estimation)      | NISP                                                                     |                 |
 | [Language Identification](https://github.com/Vicomtech/GRACE-Benchmark/tree/main/13_language_identification)                 | Voxforge                                                                 |                 |
-| Dialect Identification                  | CommonVoice, L2 Artic, Google Speech Resources, Voxforge                 |                 |
+| [Dialect Identification](https://github.com/Vicomtech/GRACE-Benchmark/tree/main/14_dialect_identification)                  | CommonVoice, L2 Artic, Google Speech Resources, Voxforge                 |                 |
 
 ## Text Benchmarks
 
