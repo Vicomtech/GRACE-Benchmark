@@ -38,9 +38,9 @@ The source corpora for the text-based applications included NER, relationship ex
 
 | **Text Benchmark**                      | **Source Datasets**                        | **Access Link** |
 |-----------------------------------------|--------------------------------------------|-----------------|
-| NER                                     | WNUT'17                                    |                 |
-| Relationship extraction                 | DOCRED                                     |                 |
-| Text Classification                     | DUTA                                       |                 |
+| [NER](https://github.com/Vicomtech/GRACE-Benchmark/tree/main/15_named_entity_recognition)                                     | WNUT'17                                    |                 |
+| [Relationship extraction](https://github.com/Vicomtech/GRACE-Benchmark/tree/main/16_relationship_extraction)                 | DOCRED                                     |                 |
+| [Text Classification](https://github.com/Vicomtech/GRACE-Benchmark/tree/main/17_text_classification)                     | DUTA                                       |                 |
 
 
 ## Authors
