@@ -26,7 +26,7 @@ Audio benchmarks were created to evaluate each AI tool in more realistic setting
 | **Audio Benchmark**                     | **Source Datasets**                                                      | **Access Link** |
 |-----------------------------------------|--------------------------------------------------------------------------|-----------------|
 | [Speech Recognition and Keyword spotting](https://github.com/Vicomtech/GRACE-Benchmark/tree/main/10_speech_recognition) | CommonVoice, MediaSpeech, Voxforge, Spoken wikipedia corpus, Polish Parl |                 |
-| Audio event detection                   | Audioset                                                                 |                 |
+| [Audio event detection](https://github.com/Vicomtech/GRACE-Benchmark/tree/main/11_audio_event_detection)                   | Audioset                                                                 |                 |
 | [Speaker Identification](https://github.com/Vicomtech/GRACE-Benchmark/tree/main/12_speaker_identification)                  | Voxceleb                                                                 |                 |
 | Acoustic Age and Gender Estimation      | NISP                                                                     |                 |
 | Language Identification                 | Voxforge                                                                 |                 |
