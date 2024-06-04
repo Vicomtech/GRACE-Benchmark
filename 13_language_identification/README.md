@@ -12,7 +12,6 @@ The dataset distribution is shown in the table below.
 | English    | 1981         | 3.21         |
 | Greek      | 416          | 1.18         |
 | Italian    | 1567         | 2.96         |
-| Portuguese | 148          | 0.19         |
 | Russian    | 1309         | 3.19         |
 | Spanish    | 1078         | 2.45         |
 | Ukrainian  | 70           | 0.18         |
