@@ -20,15 +20,15 @@ The data is organised within a folder structure
 - age2: adult >= 18 years
 
 ### gender groups:
---- gender_0: male
---- gender_1: female
+- gender_0: male
+- gender_1: female
 
 ### occlusions groups:
---- original_images: original, non-occluded images from the VGGFAce2 dataset
---- eye_occlusion -  augmented images with artificial occlusions of the eye area
---- mouth_occlusion -   augmented images with artificial occlusions of the mouth area
---- mask_occlusion - augmented  images with respiratory masks covering mouth and nose (COVID relevant)
+- original_images: original, non-occluded images from the VGGFAce2 dataset
+- eye_occlusion -  augmented images with artificial occlusions of the eye area
+- mouth_occlusion -   augmented images with artificial occlusions of the mouth area
+- mask_occlusion - augmented  images with respiratory masks covering mouth and nose (COVID relevant)
 
  ### naming convention:  
----  n000001_345_01.jpg  : identityNumber_imageNumber_counter.jpg
+-  n000001_345_01.jpg  : identityNumber_imageNumber_counter.jpg
 note that the identityNumber and imageNumber correspond to the numbers used in the original dataset
