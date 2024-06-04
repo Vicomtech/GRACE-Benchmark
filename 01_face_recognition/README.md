@@ -15,9 +15,9 @@ The dataset should not be used for training person re-identification or other fa
 The data is organised within a folder structure
 
 ### age groups: 
---- age0: pre-pubescent < 12 years
---- age1: pubescent >=12, < 18 years
---- age2: adult >= 18 years
+- age0: pre-pubescent < 12 years
+- age1: pubescent >=12, < 18 years
+- age2: adult >= 18 years
 
 ### gender groups:
 --- gender_0: male
