@@ -25,17 +25,18 @@ We also covered images that are obtained from indoor (5528) and outdoor (4468) s
 
 
 
-Language | Words | Indoor | Outdoor | Small | Medium | Large
-Arabic  | 427 | 557 | 3891 | 3286 | 2357
-English  | 438 | 544 | 5390 | 1957 | 1408
-French  | 615 | 385 | 1209 | 1279 | 3145
-Chinese  | 388 | 612 | 1246 | 1879 | 2744
-German  | 528 | 472 | 5701 | 1859 | 3340
-Korean  | 790 | 210 | 6119 | 2848 | 5083
-Japanese  | 626 | 374 | 7974 | 2137 | 3778
-Italian  | 615 | 385 | 22611 | 5530 | 4714
-Bangla  | 658 | 342 | 437 | 1208 | 4007
-Hindi  | 409 | 547 | 888 | 1565 | 1945
+|Language | Words | Indoor | Outdoor | Small | Medium | Large |
+|---------|-------|--------|---------|-------|--------|------|
+|Arabic  | 427 | 557 | 3891 | 3286 | 2357 |
+|English  | 438 | 544 | 5390 | 1957 | 1408 |
+|French  | 615 | 385 | 1209 | 1279 | 3145 |
+|Chinese  | 388 | 612 | 1246 | 1879 | 2744 |
+|German  | 528 | 472 | 5701 | 1859 | 3340 |
+|Korean  | 790 | 210 | 6119 | 2848 | 5083 |
+|Japanese  | 626 | 374 | 7974 | 2137 | 3778 |
+|Italian  | 615 | 385 | 22611 | 5530 | 4714 |
+|Bangla  | 658 | 342 | 437 | 1208 | 4007 |
+|Hindi  | 409 | 547 | 888 | 1565 | 1945 |
 
 
 
