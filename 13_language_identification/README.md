@@ -15,7 +15,7 @@ The dataset distribution is shown in the table below.
 | Russian    | 1309         | 3.19         |
 | Spanish    | 1078         | 2.45         |
 | Ukrainian  | 70           | 0.18         |
-
+| Portuguese | 148          | 0.19         |
 
 This dataset is divided into four folders:
 * clean: original audios
