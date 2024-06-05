@@ -25,8 +25,8 @@ We also covered images that are obtained from indoor (5528) and outdoor (4468) s
 
 
 
-|Language | Words | Indoor | Outdoor | Small | Medium | Large |
-|---------|-------|--------|---------|-------|--------|------|
+|Language | Indoor | Outdoor | Small | Medium | Large |
+|---------|-------|--------|---------|-------|--------|
 |Arabic  | 427 | 557 | 3891 | 3286 | 2357 |
 |English  | 438 | 544 | 5390 | 1957 | 1408 |
 |French  | 615 | 385 | 1209 | 1279 | 3145 |
