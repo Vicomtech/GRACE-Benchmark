@@ -4,6 +4,12 @@ The GRACE-Benchmark is a collection of curated datasets to evaluate AI tools for
 
 Different processes were applied to obtain benchmark corpora for image, video, audio, and text processing applications in the context of CSEM. These processes involved data selection and augmentation strategies adapted to each application and data source. We ensured that all considered datasets were publicly available and licensed to permit derivative works.
 
+The full dataset can be requested, filling the form at
+
+https://opendatasets.vicomtech.org/di01-grace-benchmark/48f947cc
+
+Then, an automatic email will be sent with temporary links to download either the full benchamrk, or the tool-specific datasets 
+
 ## Image and Video Benchmarks
 
 The GRACE benchmark datasets for Image and Video processing tools are formed by transforming source datasets to the CSEM domain. The source corpora were balanced in terms of age and gender of the persons. Data augmentation processes for these applications included image blurring and face occlusions.  
