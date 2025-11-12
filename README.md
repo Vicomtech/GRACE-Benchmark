@@ -76,7 +76,7 @@ In partricular, the following researchers have collaborated in the dataset creat
 
 ## License
 
-Licensed under CC BY-NC-ND 4.0 with GRACE Ethical Use Addendum. See [LICENSE]()
+Licensed under CC BY-NC-ND 4.0 with GRACE Ethical Use Addendum. See [LICENSE](https://github.com/Vicomtech/GRACE-Benchmark/blob/main/LICENSE.md)
 
 ## Other relevant information
 
