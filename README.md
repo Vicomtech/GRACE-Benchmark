@@ -76,7 +76,7 @@ In partricular, the following researchers have collaborated in the dataset creat
 
 ## License
 
-To be defined
+Licensed under CC BY-NC-ND 4.0 with GRACE Ethical Use Addendum. See [LICENSE]()
 
 ## Other relevant information
 
